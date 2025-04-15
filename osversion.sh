@@ -1,4 +1,4 @@
 #!/bin/bash
 
 Os= "(cat /etc/os-release)"
-echo "current os version:$Os"
+echo "current os version: $Os"
