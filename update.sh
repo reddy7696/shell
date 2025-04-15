@@ -1,3 +1,3 @@
 #!/bin/bash
 
-updateVm=$(apt update)
+updateVm=$(apt-get update)
