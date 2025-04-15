@@ -1,5 +1,5 @@
 #!/bin/bash
 
-TopOutput=$top
+TopOutput=$(top)
 
 echo "top command output: $TopOutput"
