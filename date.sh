@@ -1,4 +1,4 @@
 #!/bin/bash
 
-Date=$(pwd)
+Date=$(date)
 echo "today's date: $Date"
